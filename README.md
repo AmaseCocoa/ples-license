@@ -2,7 +2,7 @@
 (You Shouldn't Use It) Public License for Extensible Software
 
 > [!WARNING]
-> It is based on the Mozilla Public License (MPL) 1.1 but modified for extensible software.
+> It is based on the [Mozilla Public License (MPL) 1.1](https://www.mozilla.org/en-US/MPL/1.1/) but modified for extensible software.
 > 
 > It was not created or reviewed by legal professionals and maybe no legal effect.
 
@@ -106,7 +106,7 @@ EXHIBIT A - ESPL Notice.
     “The contents of this file are subject to the Extensible Software Public
     License Version 0.1 (the "License"); you may not use this file except in
     compliance with the License. You may obtain a copy of the License at
-    [URL placeholder]
+    https://raw.githubusercontent.com/AmaseCocoa/ples-license/refs/heads/main/PLES.txt
 
     Software distributed under the License is distributed on an "AS IS"
     basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the
